@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**EmmaleeBonderud0325/EmmaleeBonderud0325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I’m a Senior Full Stack Developer with a passion for building dynamic, scalable web applications. 
+With years of experience across both front-end and back-end technologies, I specialize in creating seamless, user-centered digital solutions from start to finish.
 
-Here are some ideas to get you started:
+💻 Tech Stack
+Frontend: React, Angular, Vue, HTML, CSS, JavaScript, TypeScript
+Backend: Node.js, Express, Django, Ruby on Rails, .NET
+Database: MySQL, PostgreSQL, MongoDB, Firebase
+DevOps: Docker, Kubernetes, CI/CD pipelines, AWS, Azure
+Others: RESTful APIs, GraphQL, Microservices Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Areas of Interest
+Cloud architecture and serverless computing
+AI and machine learning in web development
+Exploring new JavaScript frameworks and libraries
+
+📬 Let’s Connect!
+Feel free to reach out if you’d like to collaborate on a project or just say hello! 
+You can connect with me on LinkedIn or via email at emmaleebonderud@gmail.com.
